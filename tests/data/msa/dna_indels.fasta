@@ -1,0 +1,12 @@
+>center synthetic DNA
+ACGTCAGTACGA
+>prefix insertion synthetic
+TTACGTCAGTACGA
+>internal insertion synthetic
+ACGTCATTTGTACGA
+>suffix insertion synthetic
+ACGTCAGTACGAGG
+>deletion synthetic
+ACGTAGTACGA
+>substitution synthetic
+ACGTCGGTACGA

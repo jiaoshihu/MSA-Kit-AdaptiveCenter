@@ -1,0 +1,12 @@
+>center synthetic RNA
+ACGUACGU
+>DNA spelling synthetic
+ACGTACGT
+>RNA insertion synthetic
+ACGUUACGU
+>RNA deletion synthetic
+ACGACGU
+>mixed T U synthetic
+AUTGCU
+>unknown RNA synthetic
+NCGUACGN
